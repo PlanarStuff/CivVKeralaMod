@@ -313,6 +313,10 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="Sounds\Kerala_DOM_Speech.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="XML\Art\KeralaAlphaIconAtlas.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -321,11 +325,23 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="XML\Civilization\KeralaCivilizationColors.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Civilization\KeralaCivilizationPlayerColors.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="XML\Civilization\KeralaCivilizationNames.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\Civilization\KeralaCivilization.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Sounds\KeralaSounds.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
@@ -341,9 +357,11 @@
     <Folder Include="Art\KeralaUnit\" />
     <Folder Include="Art\KeralaUnit\Alt UU Graphic\" />
     <Folder Include="Art\KeralaUnit\KeralaUnitAtlas\" />
+    <Folder Include="Sounds\" />
     <Folder Include="XML" />
     <Folder Include="XML\Art" />
     <Folder Include="XML\Civilization" />
+    <Folder Include="XML\Sounds" />
     <Folder Include="XML\Text" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Firaxis\ModBuddy\Civ5Mod.targets" />
