@@ -313,11 +313,23 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
-    <Content Include="Kerala Txt.xml">
+    <Content Include="XML\Art\KeralaAlphaIconAtlas.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
-    <Content Include="Kerala Civ Mod.xml">
+    <Content Include="XML\Art\KeralaIconAtlas.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Civilization\KeralaCivilizationNames.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Civilization\KeralaCivilization.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Text\KeralaTextAmericanEnglish.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
@@ -329,6 +341,10 @@
     <Folder Include="Art\KeralaUnit\" />
     <Folder Include="Art\KeralaUnit\Alt UU Graphic\" />
     <Folder Include="Art\KeralaUnit\KeralaUnitAtlas\" />
+    <Folder Include="XML" />
+    <Folder Include="XML\Art" />
+    <Folder Include="XML\Civilization" />
+    <Folder Include="XML\Text" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Firaxis\ModBuddy\Civ5Mod.targets" />
 </Project>

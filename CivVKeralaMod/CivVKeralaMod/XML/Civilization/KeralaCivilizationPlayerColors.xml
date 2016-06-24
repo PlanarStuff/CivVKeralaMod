@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by PlanarStuff and meme_mixtape -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYER_COLOR_KERALA_MOD</Type>
+			<PrimaryColor>COLOR_PRIMARY_TEXT_KERALA_MOD</PrimaryColor>
+			<SecondaryColor>COLOR_SECONDARY_KERALA_MOD</SecondaryColor>
+			<TextColor>COLOR_PRIMARY_TEXT_KERALA_MOD</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

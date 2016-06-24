@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by PlanarStuff and meme_mixtape -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_DOM_SPEECH_KERALA_MOD</SoundID>
+			<Filename>Kerala_DOM_Speech</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_DOM_SPEECH_KERALA_MOD</ScriptID>
+			<SoundID>SND_DOM_SPEECH_KERALA_MOD</SoundID>
+			<SoundType>GAME_SPEECH</SoundType>
+			<MinVolume>85</MinVolume>
+			<MaxVolume>85</MaxVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

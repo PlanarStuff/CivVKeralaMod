@@ -8,7 +8,7 @@
 			<ShortDescription>TXT_KEY_KERALA_MOD_SHORT_DESC</ShortDescription>
 			<Adjective>TXT_KEY_KERALA_MOD_ADJECTIVE</Adjective>
 			<CivilopediaTag>TXT_KEY_CIVLOPEDIA_KERALA_MOD</CivilopediaTag>
-			<DefaultPlayerColor>PLAYERCOLOR_KERALA_MOD</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYER_COLOR_KERALA_MOD</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_INDIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
 			<PortraitIndex>0</PortraitIndex>
@@ -17,10 +17,10 @@
 			<MapImage>Kerala_Map_Mod.dds</MapImage>
 			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
 			<ArtStylePrefix>ASIAN </ArtStylePrefix>
-			<DawnOfManQuote>TXT_KEY_DAWN_OF_MAN_VISIGOTHS_MOD_TEXT</DawnOfManQuote>
-			<DawnOfManImage>Visigoths_DOM_Mod.dds</DawnOfManImage>
-			<DawnOfManAudio>AS2D_DOM_SPEECH_VISIGOTHS_MOD</DawnOfManAudio>
-			<SoundtrackTag>Germany</SoundtrackTag>
+			<DawnOfManQuote>TXT_KEY_DAWN_OF_MAN_TEXT_KERALA_MOD</DawnOfManQuote>
+			<DawnOfManImage>Kerala_DOM_Mod.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_KERALA_MOD</DawnOfManAudio>
+			<SoundtrackTag>India</SoundtrackTag>
 		</Row>
 	</Civilizations>
 </GameData>

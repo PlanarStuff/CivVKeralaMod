@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/24/2016 2:35:24 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PRIMARY_TEXT_KERALA_MOD</Type>
+			<Red>0.169</Red>
+			<Green>0.592</Green>
+			<Blue>0.212</Blue>
+			<Alpha>1.000</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_SECONDARY_KERALA_MOD</Type>
+			<Red>0.169</Red>
+			<Green>0.592</Green>
+			<Blue>0.212</Blue>
+			<Alpha>1.000</Alpha>
+		</Row>
+	</Colors>
+</GameData>
