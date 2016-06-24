@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by PlanarStuff and meme_mixtape -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>KERALA_ALPHA_ATLAS_MOD</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>KeralaAlphaAtlas128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>KERALA_ALPHA_ATLAS_MOD</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>KeralaAlphaAtlas64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>KERALA_ALPHA_ATLAS_MOD</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>KeralaAlphaAtlas48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>KERALA_ALPHA_ATLAS_MOD</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>KeralaAlphaAtlas32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>KERALA_ALPHA_ATLAS_MOD</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>KeralaAlphaAtlas24.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>KERALA_ALPHA_ATLAS_MOD</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>KeralaAlphaAtlas16.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

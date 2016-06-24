@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by PlanarStuff and meme_mixtape -->
+<GameData>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Thiruvananthapuram</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Cochin</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Kozhikode</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Kollam</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Thrissur</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Kannur</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Alappuzha</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Palakkad</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Kottayam</CivilizationName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KERALA_MOD</CivilizationType>
+			<CivilizationName>Pathanamthitta</CivilizationName>
+		</Row>
+	</Civilization_CityNames>
+</GameData>
