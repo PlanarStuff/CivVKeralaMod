@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by PlanarStuff and meme_mixtape -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_KERALA_MOD</Type>
+			<Description>TXT_KEY_KERALA_MOD_DESC</Description>
+			<ShortDescription>TXT_KEY_KERALA_MOD_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_KERALA_MOD_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIVLOPEDIA_KERALA_MOD</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_KERALA_MOD</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_INDIA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>KERALA_ATLAS_MOD</IconAtlas>
+			<AlphaIconAtlas>KERALA_ALPHA_ATLAS_MOD</AlphaIconAtlas>
+			<MapImage>Kerala_Map_Mod.dds</MapImage>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN </ArtStylePrefix>
+			<DawnOfManQuote>TXT_KEY_DAWN_OF_MAN_VISIGOTHS_MOD_TEXT</DawnOfManQuote>
+			<DawnOfManImage>Visigoths_DOM_Mod.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_VISIGOTHS_MOD</DawnOfManAudio>
+			<SoundtrackTag>Germany</SoundtrackTag>
+		</Row>
+	</Civilizations>
+</GameData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by PlanarStuff and meme_mixtape -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_KERALA_MOD_DESC">
+			<Text>The Keralite Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KERALA_MOD_SHORT_DESC">
+			<Text>The Keralites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KERALA_MOD_ADJECTIVE">
+			<Text>Keralite</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
