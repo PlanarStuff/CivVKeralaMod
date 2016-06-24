@@ -313,6 +313,14 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="Lua\KeralaCheck.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Lua\KeralaCode.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="Sounds\Kerala_DOM_Speech.mp3">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -349,6 +357,10 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="XML\Units\KeralaUnits.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Art\" />
@@ -357,10 +369,12 @@
     <Folder Include="Art\KeralaUnit\" />
     <Folder Include="Art\KeralaUnit\Alt UU Graphic\" />
     <Folder Include="Art\KeralaUnit\KeralaUnitAtlas\" />
+    <Folder Include="Lua" />
     <Folder Include="Sounds\" />
     <Folder Include="XML" />
     <Folder Include="XML\Art" />
     <Folder Include="XML\Civilization" />
+    <Folder Include="XML\Units" />
     <Folder Include="XML\Sounds" />
     <Folder Include="XML\Text" />
   </ItemGroup>
